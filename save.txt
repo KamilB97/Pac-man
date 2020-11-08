@@ -1,0 +1,14 @@
+kamil,490;
+ad1,540;
+ad3,559;
+wiesiek,555;
+enter,586;
+enter1,607;
+winer,663;
+ahmed,607;
+k2,687;
+DonKamillo,2509;
+enter your name,190;
+seba,2585;
+DonSebastiano,2639;
+
